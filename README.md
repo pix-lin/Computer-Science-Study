@@ -27,14 +27,6 @@ Computer Science Study For CS Interview
 
 <br/>
 
-## 🧑‍💻 참여자 (Members)
-| 이름 | 역할 | 깃허브 |
-|:---:|:---:|:---:|
-| **Pix-Lin** | 스터디장 | [@pix-lin](https://github.com/pix-lin) |
-| **팀원1** | 팀원 | [@github_id](https://github.com) |
-
-<br/>
-
 ## 📂 목차 (Table of Contents)
 
 ### 1. Computer Architecture (컴퓨터 구조)
