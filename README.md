@@ -9,6 +9,7 @@ Computer Science Study For CS Interview
 * 매주 주제를 정해 공부하고, 서로 리뷰하며 지식을 공유합니다.
 * 주 목적은 면접 대비이며, Github Repository를 통합 협업 능력 향상 및 소통입니다.
 * ...
+* branch 새로파서 PR 테스트 해보겠습니다.
 
 ## 📅 진행 기간
 * 2024.01.13 ~ 진행 중
