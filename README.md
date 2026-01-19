@@ -76,7 +76,7 @@ Computer Science Study For CS Interview
 | **Pix-Lin** | 스터디장 | [@pix-lin](https://github.com/pix-lin) |
 | **팀원1** | 팀원 | [@github_id](https://github.com) |
 | **팀원1** | 김준섭 | [@kimjunsseop](https://github.com/jskim33350) |
-
+| **팀원2** | 윤서현 | [@dbstjgus75](https://github.com/dbstjgus75) |
 <br/>
 
 ## 🔗 Reference (참고 자료)
