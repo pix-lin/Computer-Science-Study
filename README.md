@@ -32,10 +32,14 @@ Computer Science Study For CS Interview
 ## 📂 목차 (Table of Contents)
 
 ### 1. Computer Architecture (컴퓨터 구조)
-* [캐시 메모리 (Cache Memory)](./computer_architecture/Cache.md)
-* [CPU 스케줄링](./computer_architecture/CPU_Scheduling.md)
-* [파이프라인 (Pipeline)](./computer_architecture/Pipeline.md)
-* [고정 소수점 & 부동 소수점](./computer_architecture/Floating_Point.md)
+* [Ch1. 컴퓨터구조 시작](./computer_architecture/)
+* [Ch2. 데이터](./computer_architecture/)
+* [Ch3. 명령어](./computer_architecture/)
+* [Ch4. CPU의 작동 원리](./computer_architecture/)
+* [Ch5. CPU 성능 향상 기법](./computer_architecture/)
+* [Ch6. 메모리와 캐시 메모리](./computer_architecture/)
+* [Ch7. 보조기억장치](./computer_architecture/)
+* [Ch8. 입출력장치](./computer_architecture/)
 
 ### 2. Database (데이터베이스)
 * [인덱스 (Index)](./database/Index.md)
